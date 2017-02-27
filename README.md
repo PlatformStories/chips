@@ -1,6 +1,6 @@
 # chips
 
-A collection of panchromatic (pan), multispectral (ms) and pansharpened (ps) chips, grouped by content, for quick experiments and demos.
+A collection of panchromatic (pan), multispectral (ms) and pansharpened (ps) chips for quick experiments and demos.
 
 All chips are in GeoTiff format and various projections. The multispectral chips are atmospherically compensated.
 
